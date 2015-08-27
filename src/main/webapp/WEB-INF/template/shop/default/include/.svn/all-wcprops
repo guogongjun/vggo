@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/include
+END
+hot_product_category.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/include/hot_product_category.ftl
+END
+hot_promotion.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/include/hot_promotion.ftl
+END
+article_search.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/include/article_search.ftl
+END
+statistics.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/include/statistics.ftl
+END
+hot_article.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/include/hot_article.ftl
+END
+hot_goods.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/include/hot_goods.ftl
+END
+hot_brand.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/include/hot_brand.ftl
+END
+hot_article_category.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/include/hot_article_category.ftl
+END
+pagination.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/include/pagination.ftl
+END
+history_goods.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/include/history_goods.ftl
+END
+footer.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/include/footer.ftl
+END
+header.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/include/header.ftl
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/abcPayment
+END
+setting.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/abcPayment/setting.ftl
+END
+AbcPaymentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/abcPayment/AbcPaymentController.java
+END
+TrustPay.cer
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/abcPayment/TrustPay.cer
+END
+AbcPaymentPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/abcPayment/AbcPaymentPlugin.java
+END

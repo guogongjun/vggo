@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/filter
+END
+AuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/filter/AuthenticationFilter.java
+END
+AccessDeniedFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/filter/AccessDeniedFilter.java
+END
+SiteStatusFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/filter/SiteStatusFilter.java
+END

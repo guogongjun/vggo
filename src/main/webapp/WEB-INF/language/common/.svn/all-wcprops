@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/language/common
+END
+message_en_US.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/language/common/message_en_US.properties
+END
+message_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/language/common/message_zh_TW.properties
+END
+message_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/language/common/message_zh_CN.properties
+END

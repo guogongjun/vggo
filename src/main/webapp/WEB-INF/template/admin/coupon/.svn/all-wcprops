@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/admin/coupon
+END
+add.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/admin/coupon/add.ftl
+END
+generate.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/admin/coupon/generate.ftl
+END
+edit.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/admin/coupon/edit.ftl
+END
+list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/admin/coupon/list.ftl
+END

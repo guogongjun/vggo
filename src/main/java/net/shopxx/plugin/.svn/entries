@@ -1,0 +1,190 @@
+10
+
+dir
+14
+http://mqb-kbfserver:9889/svn/MQB-XShop/trunk/1_JAVA/src/net/shopxx/plugin
+http://mqb-kbfserver:9889/svn/MQB-XShop
+
+
+
+2015-07-08T02:24:20.816625Z
+14
+liugz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fae6c906-a566-4e49-bd38-36290f4014f7
+
+LoginPlugin.java
+file
+
+
+
+
+2015-07-09T02:58:19.843000Z
+3b12c90e86e8276f91cd7ec4c3a04fe4
+2015-07-08T02:24:20.816625Z
+14
+liugz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8775
+
+PaymentPlugin.java
+file
+
+
+
+
+2015-07-09T02:58:20.090000Z
+e204cb406eedb1ca2a7c80884f1cf584
+2015-07-08T02:24:20.816625Z
+14
+liugz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11399
+
+StoragePlugin.java
+file
+
+
+
+
+2015-07-09T02:58:19.838000Z
+f7fd49a9d61c6d7f2b1e17d97e798a19
+2015-07-08T02:24:20.816625Z
+14
+liugz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4105
+
+abcPayment
+dir
+
+alipayBankPayment
+dir
+
+alipayDirectPayment
+dir
+
+alipayDualPayment
+dir
+
+alipayEscowPayment
+dir
+
+alipayLogin
+dir
+
+ccbPayment
+dir
+
+ftpStorage
+dir
+
+localStorage
+dir
+
+ossStorage
+dir
+
+pay99billBankPayment
+dir
+
+pay99billPayment
+dir
+
+paypalPayment
+dir
+
+qqLogin
+dir
+
+tenpayBankPayment
+dir
+
+tenpayDirectPayment
+dir
+
+tenpayEscowPayment
+dir
+
+unionpayPayment
+dir
+
+weiboLogin
+dir
+
+yeepayPayment
+dir
+

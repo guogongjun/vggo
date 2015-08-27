@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/admin/message
+END
+draft.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/admin/message/draft.ftl
+END
+view.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/admin/message/view.ftl
+END
+send.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/admin/message/send.ftl
+END
+list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/admin/message/list.ftl
+END

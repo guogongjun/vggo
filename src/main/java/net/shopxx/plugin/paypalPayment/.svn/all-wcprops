@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/paypalPayment
+END
+setting.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/paypalPayment/setting.ftl
+END
+PaypalPaymentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/paypalPayment/PaypalPaymentController.java
+END
+PaypalPaymentPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/paypalPayment/PaypalPaymentPlugin.java
+END

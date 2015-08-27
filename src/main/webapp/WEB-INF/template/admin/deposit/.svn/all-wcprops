@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/admin/deposit
+END
+log.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/admin/deposit/log.ftl
+END
+adjust.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/admin/deposit/adjust.ftl
+END

@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.ApplicationId=55d9319889f5cf2072000087
+org.jboss.tools.openshift.ApplicationName=jbossews
+org.jboss.tools.openshift.Connection=https\://wangzhao@
+org.jboss.tools.openshift.DeployFolder=webapps
+org.jboss.tools.openshift.Domain=vggo
+org.jboss.tools.openshift.RemoteName=origin

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/pay99billPayment
+END
+setting.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/pay99billPayment/setting.ftl
+END
+Pay99billPaymentPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/pay99billPayment/Pay99billPaymentPlugin.java
+END
+Pay99billPaymentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/pay99billPayment/Pay99billPaymentController.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin
+END
+StoragePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/StoragePlugin.java
+END
+LoginPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/LoginPlugin.java
+END
+PaymentPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/PaymentPlugin.java
+END

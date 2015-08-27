@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/alipayDirectPayment
+END
+setting.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/alipayDirectPayment/setting.ftl
+END
+AlipayDirectPaymentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/alipayDirectPayment/AlipayDirectPaymentController.java
+END
+AlipayDirectPaymentPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/alipayDirectPayment/AlipayDirectPaymentPlugin.java
+END

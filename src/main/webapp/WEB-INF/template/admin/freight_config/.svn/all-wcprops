@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/admin/freight_config
+END
+add.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/admin/freight_config/add.ftl
+END
+edit.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/admin/freight_config/edit.ftl
+END
+list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/admin/freight_config/list.ftl
+END

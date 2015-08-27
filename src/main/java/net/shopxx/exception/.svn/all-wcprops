@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/exception
+END
+IncorrectCaptchaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/exception/IncorrectCaptchaException.java
+END
+IllegalLicenseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/exception/IllegalLicenseException.java
+END
+IncorrectLicenseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/exception/IncorrectLicenseException.java
+END
+ResourceNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/exception/ResourceNotFoundException.java
+END

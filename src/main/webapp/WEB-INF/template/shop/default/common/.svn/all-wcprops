@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/common
+END
+site_close.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/common/site_close.ftl
+END
+resource_not_found.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/common/resource_not_found.ftl
+END
+illegal_license.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/common/illegal_license.ftl
+END
+error.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/common/error.ftl
+END

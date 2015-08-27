@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/review
+END
+add.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/review/add.ftl
+END
+content.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/review/content.ftl
+END

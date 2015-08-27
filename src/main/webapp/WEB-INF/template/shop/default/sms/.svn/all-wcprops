@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/sms
+END
+receive_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/sms/receive_order.ftl
+END
+returns_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/sms/returns_order.ftl
+END
+payment_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/sms/payment_order.ftl
+END
+register_member.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/sms/register_member.ftl
+END
+review_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/sms/review_order.ftl
+END
+update_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/sms/update_order.ftl
+END
+complete_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/sms/complete_order.ftl
+END
+cancel_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/sms/cancel_order.ftl
+END
+refunds_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/sms/refunds_order.ftl
+END
+create_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/sms/create_order.ftl
+END
+shipping_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/sms/shipping_order.ftl
+END
+fail_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/sms/fail_order.ftl
+END

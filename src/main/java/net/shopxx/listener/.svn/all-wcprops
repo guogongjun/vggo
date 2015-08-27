@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/listener
+END
+CacheEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/listener/CacheEventListener.java
+END
+EntityListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/listener/EntityListener.java
+END
+InitListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/listener/InitListener.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/controller/shop/member
+END
+PointLogController.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/controller/shop/member/PointLogController.java
+END
+CouponCodeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/controller/shop/member/CouponCodeController.java
+END
+ReceiverController.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/controller/shop/member/ReceiverController.java
+END
+OrderController.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/controller/shop/member/OrderController.java
+END
+DepositController.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/controller/shop/member/DepositController.java
+END
+FavoriteController.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/controller/shop/member/FavoriteController.java
+END
+PasswordController.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/controller/shop/member/PasswordController.java
+END
+MemberController.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/controller/shop/member/MemberController.java
+END
+ProfileController.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/controller/shop/member/ProfileController.java
+END
+ConsultationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/controller/shop/member/ConsultationController.java
+END
+ReviewController.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/controller/shop/member/ReviewController.java
+END
+ProductNotifyController.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/controller/shop/member/ProductNotifyController.java
+END
+MessageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/controller/shop/member/MessageController.java
+END

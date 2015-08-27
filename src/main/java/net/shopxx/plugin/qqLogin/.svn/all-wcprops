@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/qqLogin
+END
+setting.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/qqLogin/setting.ftl
+END
+QqLoginPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/qqLogin/QqLoginPlugin.java
+END
+QqLoginController.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/qqLogin/QqLoginController.java
+END

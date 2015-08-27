@@ -1,0 +1,34 @@
+10
+
+dir
+14
+http://mqb-kbfserver:9889/svn/MQB-XShop/trunk/1_JAVA/src/net/shopxx/controller
+http://mqb-kbfserver:9889/svn/MQB-XShop
+
+
+
+2015-07-08T02:24:20.816625Z
+14
+liugz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fae6c906-a566-4e49-bd38-36290f4014f7
+
+admin
+dir
+
+shop
+dir
+

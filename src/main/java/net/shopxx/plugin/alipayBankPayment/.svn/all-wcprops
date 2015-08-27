@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/alipayBankPayment
+END
+setting.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/alipayBankPayment/setting.ftl
+END
+AlipayBankPaymentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/alipayBankPayment/AlipayBankPaymentController.java
+END
+AlipayBankPaymentPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/alipayBankPayment/AlipayBankPaymentPlugin.java
+END

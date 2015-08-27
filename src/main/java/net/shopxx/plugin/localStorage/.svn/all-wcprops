@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/localStorage
+END
+setting.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/localStorage/setting.ftl
+END
+LocalStorageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/localStorage/LocalStorageController.java
+END
+LocalStoragePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/localStorage/LocalStoragePlugin.java
+END

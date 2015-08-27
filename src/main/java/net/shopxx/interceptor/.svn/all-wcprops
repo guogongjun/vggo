@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/interceptor
+END
+ValidateInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/interceptor/ValidateInterceptor.java
+END
+TokenInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/interceptor/TokenInterceptor.java
+END
+MemberInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/interceptor/MemberInterceptor.java
+END
+CartQuantityInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/interceptor/CartQuantityInterceptor.java
+END
+ListInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/interceptor/ListInterceptor.java
+END
+LogInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/interceptor/LogInterceptor.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/ftpStorage
+END
+setting.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/ftpStorage/setting.ftl
+END
+FtpStoragePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/ftpStorage/FtpStoragePlugin.java
+END
+FtpStorageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/ftpStorage/FtpStorageController.java
+END

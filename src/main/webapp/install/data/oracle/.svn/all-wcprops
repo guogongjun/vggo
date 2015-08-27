@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/install/data/oracle
+END
+init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/install/data/oracle/init.sql
+END
+demo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/install/data/oracle/demo.sql
+END

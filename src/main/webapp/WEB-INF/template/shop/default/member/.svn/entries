@@ -1,0 +1,101 @@
+10
+
+dir
+14
+http://mqb-kbfserver:9889/svn/MQB-XShop/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/member
+http://mqb-kbfserver:9889/svn/MQB-XShop
+
+
+
+2015-07-08T02:24:20.816625Z
+14
+liugz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fae6c906-a566-4e49-bd38-36290f4014f7
+
+consultation
+dir
+
+coupon_code
+dir
+
+deposit
+dir
+
+favorite
+dir
+
+include
+dir
+
+index.ftl
+file
+
+
+
+
+2015-07-09T02:58:33.537000Z
+c7ddada995803a35223d5495d4297b80
+2015-07-08T02:24:20.816625Z
+14
+liugz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4975
+
+message
+dir
+
+order
+dir
+
+password
+dir
+
+point_log
+dir
+
+product_notify
+dir
+
+profile
+dir
+
+receiver
+dir
+
+review
+dir
+

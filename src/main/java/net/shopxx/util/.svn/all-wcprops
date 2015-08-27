@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/util
+END
+CompressUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/util/CompressUtils.java
+END
+WebUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/util/WebUtils.java
+END
+FreeMarkerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/util/FreeMarkerUtils.java
+END
+JsonUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/util/JsonUtils.java
+END
+ImageUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/util/ImageUtils.java
+END
+SpringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/util/SpringUtils.java
+END
+SystemUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/util/SystemUtils.java
+END
+RSAUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/util/RSAUtils.java
+END

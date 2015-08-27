@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/yeepayPayment
+END
+setting.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/yeepayPayment/setting.ftl
+END
+YeepayPaymentPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/yeepayPayment/YeepayPaymentPlugin.java
+END
+YeepayPaymentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/yeepayPayment/YeepayPaymentController.java
+END

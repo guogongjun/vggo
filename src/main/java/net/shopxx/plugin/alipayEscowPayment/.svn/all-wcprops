@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/alipayEscowPayment
+END
+setting.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/alipayEscowPayment/setting.ftl
+END
+AlipayEscowPaymentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/alipayEscowPayment/AlipayEscowPaymentController.java
+END
+AlipayEscowPaymentPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/alipayEscowPayment/AlipayEscowPaymentPlugin.java
+END

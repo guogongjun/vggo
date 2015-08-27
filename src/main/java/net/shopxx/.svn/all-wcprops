@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx
+END
+Setting.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/Setting.java
+END
+Page.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/Page.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/Order.java
+END
+Principal.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/Principal.java
+END
+HtmlCleanEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/HtmlCleanEditor.java
+END
+Commercial.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/Commercial.java
+END
+Pageable.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/Pageable.java
+END
+Theme.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/Theme.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/Message.java
+END
+BigDecimalNumericFieldBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/BigDecimalNumericFieldBridge.java
+END
+LogConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/LogConfig.java
+END
+CommonAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/CommonAttributes.java
+END
+FreeMarkerExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/FreeMarkerExceptionHandler.java
+END
+AuthenticationToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/AuthenticationToken.java
+END
+EnumConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/EnumConverter.java
+END
+StringEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/StringEditor.java
+END
+TemplateConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/TemplateConfig.java
+END
+ExcelView.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/ExcelView.java
+END
+CaptchaEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/CaptchaEngine.java
+END
+DateEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/DateEditor.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/Filter.java
+END
+AuthenticationRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/AuthenticationRealm.java
+END
+FileType.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/FileType.java
+END
+BaseAttributeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/BaseAttributeConverter.java
+END
+FreeMarkerViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/FreeMarkerViewResolver.java
+END

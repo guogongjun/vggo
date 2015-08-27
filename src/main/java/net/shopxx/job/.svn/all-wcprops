@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/job
+END
+StaticJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/job/StaticJob.java
+END
+OrderJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/job/OrderJob.java
+END
+StatisticJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/job/StatisticJob.java
+END
+CartJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/job/CartJob.java
+END

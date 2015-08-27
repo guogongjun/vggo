@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/mail
+END
+find_password.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/mail/find_password.ftl
+END
+receive_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/mail/receive_order.ftl
+END
+returns_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/mail/returns_order.ftl
+END
+payment_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/mail/payment_order.ftl
+END
+register_member.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/mail/register_member.ftl
+END
+review_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/mail/review_order.ftl
+END
+update_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/mail/update_order.ftl
+END
+complete_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/mail/complete_order.ftl
+END
+cancel_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/mail/cancel_order.ftl
+END
+product_notify.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/mail/product_notify.ftl
+END
+refunds_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/mail/refunds_order.ftl
+END
+create_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/mail/create_order.ftl
+END
+shipping_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/mail/shipping_order.ftl
+END
+fail_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/WEB-INF/template/shop/default/mail/fail_order.ftl
+END

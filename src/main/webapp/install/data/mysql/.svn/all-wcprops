@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/install/data/mysql
+END
+init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/install/data/mysql/init.sql
+END
+demo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/WebContent/install/data/mysql/demo.sql
+END

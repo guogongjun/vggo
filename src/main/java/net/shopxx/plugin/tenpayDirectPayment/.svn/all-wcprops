@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/tenpayDirectPayment
+END
+setting.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/tenpayDirectPayment/setting.ftl
+END
+TenpayDirectPaymentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/tenpayDirectPayment/TenpayDirectPaymentController.java
+END
+TenpayDirectPaymentPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/plugin/tenpayDirectPayment/TenpayDirectPaymentPlugin.java
+END

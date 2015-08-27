@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl
+END
+SpecificationDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/SpecificationDaoImpl.java
+END
+ReturnsDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/ReturnsDaoImpl.java
+END
+LogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/LogDaoImpl.java
+END
+PaymentDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/PaymentDaoImpl.java
+END
+DepositLogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/DepositLogDaoImpl.java
+END
+MessageDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/MessageDaoImpl.java
+END
+BrandDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/BrandDaoImpl.java
+END
+PaymentMethodDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/PaymentMethodDaoImpl.java
+END
+ConsultationDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/ConsultationDaoImpl.java
+END
+AreaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/AreaDaoImpl.java
+END
+ProductCategoryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/ProductCategoryDaoImpl.java
+END
+OrderDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/OrderDaoImpl.java
+END
+DeliveryTemplateDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/DeliveryTemplateDaoImpl.java
+END
+StockLogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/StockLogDaoImpl.java
+END
+AdminDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/AdminDaoImpl.java
+END
+StatisticDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/StatisticDaoImpl.java
+END
+BaseDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/BaseDaoImpl.java
+END
+CartItemDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/CartItemDaoImpl.java
+END
+NavigationDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/NavigationDaoImpl.java
+END
+ArticleCategoryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/ArticleCategoryDaoImpl.java
+END
+PointLogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/PointLogDaoImpl.java
+END
+PluginConfigDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/PluginConfigDaoImpl.java
+END
+GoodsDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/GoodsDaoImpl.java
+END
+OrderLogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/OrderLogDaoImpl.java
+END
+ReviewDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/ReviewDaoImpl.java
+END
+ProductNotifyDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/ProductNotifyDaoImpl.java
+END
+MemberDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/MemberDaoImpl.java
+END
+TagDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/TagDaoImpl.java
+END
+SnDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/SnDaoImpl.java
+END
+AttributeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/AttributeDaoImpl.java
+END
+SeoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/SeoDaoImpl.java
+END
+PaymentLogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/PaymentLogDaoImpl.java
+END
+CartDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/CartDaoImpl.java
+END
+ShippingItemDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/ShippingItemDaoImpl.java
+END
+MemberAttributeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/MemberAttributeDaoImpl.java
+END
+AdDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/AdDaoImpl.java
+END
+PromotionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/PromotionDaoImpl.java
+END
+FreightConfigDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/FreightConfigDaoImpl.java
+END
+CouponDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/CouponDaoImpl.java
+END
+MemberRankDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/MemberRankDaoImpl.java
+END
+ParameterDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/ParameterDaoImpl.java
+END
+DeliveryCenterDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/DeliveryCenterDaoImpl.java
+END
+MessageConfigDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/MessageConfigDaoImpl.java
+END
+AdPositionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/AdPositionDaoImpl.java
+END
+ShippingDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/ShippingDaoImpl.java
+END
+ReceiverDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/ReceiverDaoImpl.java
+END
+ShippingMethodDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/ShippingMethodDaoImpl.java
+END
+ProductDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/ProductDaoImpl.java
+END
+CouponCodeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/CouponCodeDaoImpl.java
+END
+RoleDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/RoleDaoImpl.java
+END
+ArticleDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/ArticleDaoImpl.java
+END
+FriendLinkDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/FriendLinkDaoImpl.java
+END
+RefundsDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/RefundsDaoImpl.java
+END
+DeliveryCorpDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/DeliveryCorpDaoImpl.java
+END
+OrderItemDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/dao/impl/OrderItemDaoImpl.java
+END

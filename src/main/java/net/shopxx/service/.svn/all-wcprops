@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service
+END
+ThemeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/ThemeService.java
+END
+ConsultationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/ConsultationService.java
+END
+AreaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/AreaService.java
+END
+OrderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/OrderService.java
+END
+DeliveryTemplateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/DeliveryTemplateService.java
+END
+AdminService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/AdminService.java
+END
+StatisticService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/StatisticService.java
+END
+NavigationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/NavigationService.java
+END
+PointLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/PointLogService.java
+END
+GoodsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/GoodsService.java
+END
+OrderLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/OrderLogService.java
+END
+SmsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/SmsService.java
+END
+MemberService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/MemberService.java
+END
+SeoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/SeoService.java
+END
+CartService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/CartService.java
+END
+AdService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/AdService.java
+END
+FreightConfigService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/FreightConfigService.java
+END
+CouponService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/CouponService.java
+END
+SearchService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/SearchService.java
+END
+ProductImageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/ProductImageService.java
+END
+SpecificationValueService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/SpecificationValueService.java
+END
+ShippingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/ShippingService.java
+END
+ProductService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/ProductService.java
+END
+ShippingMethodService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/ShippingMethodService.java
+END
+CouponCodeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/CouponCodeService.java
+END
+PluginService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/PluginService.java
+END
+ArticleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/ArticleService.java
+END
+MailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/MailService.java
+END
+FriendLinkService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/FriendLinkService.java
+END
+CaptchaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/CaptchaService.java
+END
+RefundsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/RefundsService.java
+END
+DeliveryCorpService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/DeliveryCorpService.java
+END
+OrderItemService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/OrderItemService.java
+END
+CacheService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/CacheService.java
+END
+ConfigService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/ConfigService.java
+END
+SpecificationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/SpecificationService.java
+END
+PaymentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/PaymentService.java
+END
+DepositLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/DepositLogService.java
+END
+PaymentMethodService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/PaymentMethodService.java
+END
+MessageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/MessageService.java
+END
+BrandService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/BrandService.java
+END
+ParameterValueService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/ParameterValueService.java
+END
+ProductCategoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/ProductCategoryService.java
+END
+StockLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/StockLogService.java
+END
+BaseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/BaseService.java
+END
+CartItemService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/CartItemService.java
+END
+ArticleCategoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/ArticleCategoryService.java
+END
+PluginConfigService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/PluginConfigService.java
+END
+ReviewService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/ReviewService.java
+END
+ProductNotifyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/ProductNotifyService.java
+END
+TagService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/TagService.java
+END
+SnService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/SnService.java
+END
+AttributeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/AttributeService.java
+END
+PaymentLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/PaymentLogService.java
+END
+ShippingItemService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/ShippingItemService.java
+END
+MemberAttributeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/MemberAttributeService.java
+END
+PromotionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/PromotionService.java
+END
+MemberRankService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/MemberRankService.java
+END
+DeliveryCenterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/DeliveryCenterService.java
+END
+ParameterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/ParameterService.java
+END
+MessageConfigService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/MessageConfigService.java
+END
+AdPositionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/AdPositionService.java
+END
+StaticService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/StaticService.java
+END
+ReceiverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/ReceiverService.java
+END
+SpecificationItemService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/SpecificationItemService.java
+END
+RoleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/RoleService.java
+END
+TemplateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/TemplateService.java
+END
+FileService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/FileService.java
+END
+RSAService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/RSAService.java
+END
+LicenseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/LicenseService.java
+END
+ReturnsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/ReturnsService.java
+END
+LogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MQB-XShop/!svn/ver/14/trunk/1_JAVA/src/net/shopxx/service/LogService.java
+END

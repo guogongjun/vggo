@@ -1,0 +1,220 @@
+10
+
+dir
+14
+http://mqb-kbfserver:9889/svn/MQB-XShop/trunk/1_JAVA/WebContent/WEB-INF/template/admin
+http://mqb-kbfserver:9889/svn/MQB-XShop
+
+
+
+2015-07-08T02:24:20.816625Z
+14
+liugz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fae6c906-a566-4e49-bd38-36290f4014f7
+
+ad
+dir
+
+ad_position
+dir
+
+admin
+dir
+
+area
+dir
+
+article
+dir
+
+article_category
+dir
+
+attribute
+dir
+
+brand
+dir
+
+cache
+dir
+
+common
+dir
+
+consultation
+dir
+
+coupon
+dir
+
+delivery_center
+dir
+
+delivery_corp
+dir
+
+delivery_template
+dir
+
+deposit
+dir
+
+freight_config
+dir
+
+friend_link
+dir
+
+goods
+dir
+
+goods_ranking
+dir
+
+include
+dir
+
+index
+dir
+
+js
+dir
+
+log
+dir
+
+login
+dir
+
+login_plugin
+dir
+
+mail
+dir
+
+member
+dir
+
+member_attribute
+dir
+
+member_rank
+dir
+
+member_ranking
+dir
+
+member_statistic
+dir
+
+message
+dir
+
+message_config
+dir
+
+navigation
+dir
+
+order
+dir
+
+order_statistic
+dir
+
+parameter
+dir
+
+payment
+dir
+
+payment_method
+dir
+
+payment_plugin
+dir
+
+point
+dir
+
+print
+dir
+
+product_category
+dir
+
+product_notify
+dir
+
+profile
+dir
+
+promotion
+dir
+
+refunds
+dir
+
+returns
+dir
+
+review
+dir
+
+role
+dir
+
+seo
+dir
+
+setting
+dir
+
+shipping
+dir
+
+shipping_method
+dir
+
+sitemap
+dir
+
+specification
+dir
+
+static
+dir
+
+statistics
+dir
+
+stock
+dir
+
+storage_plugin
+dir
+
+tag
+dir
+
+template
+dir
+
+theme
+dir
+
